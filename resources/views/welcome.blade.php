@@ -80,7 +80,7 @@
             @endif
 
             <div class="content">
-                <div id="example"></div>
+                <div id="index"></div>
             </div>
         </div>
         <script type="text/javascript" src="js/app.js"></script>
